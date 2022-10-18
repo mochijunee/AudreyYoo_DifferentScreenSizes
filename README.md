@@ -6,6 +6,8 @@ Task:
 Part #1
 
 •  Read and go over the links below. Make sure you test the concepts showed. 
+
+
 Part #2
 
 •  Create an html file that has the elements: h1 heading, 3 paragraphs, 1 image and one link. 
